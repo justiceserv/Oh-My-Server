@@ -18,3 +18,6 @@ Made using Javascript :heart:
 - [ ] Find My Current Internal & External IP Addresses. 
 - [ ] Send Files to DiskStation (Designated Location)
 - [ ] BackBlaze / DiskStation - S3 Backup Button
+
+---
+**맥북용이기 때문에, 기본적인 Responsive 이외에는 반영할 예정이 없습니다.**
