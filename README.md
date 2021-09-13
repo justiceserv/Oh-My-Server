@@ -9,7 +9,6 @@ Made using Javascript :heart:
 
 - 사실 아직은 없습니다! 
 
----
 ## To-Do
 **Listed based on priority.** 
 - [ ] Alarm on Alma ToDos. (Before 1D, 6h, 1h, 5m)
@@ -19,5 +18,3 @@ Made using Javascript :heart:
 - [ ] Find My Current Internal & External IP Addresses. 
 - [ ] Send Files to DiskStation (Designated Location)
 - [ ] BackBlaze / DiskStation - S3 Backup Button
-
----
